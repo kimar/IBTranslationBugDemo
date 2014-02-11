@@ -56,9 +56,9 @@
 		2A3251CF18AA18BC00EA1440 /* IBTranslationBugDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IBTranslationBugDemoTests.m; sourceTree = "<group>"; };
 		2A3251D918AA18DB00EA1440 /* KITextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KITextField.h; sourceTree = "<group>"; };
 		2A3251DA18AA18DB00EA1440 /* KITextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KITextField.m; sourceTree = "<group>"; };
-		2A3251DC18AA193800EA1440 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
-		2A3251DD18AA193800EA1440 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2A3251DE18AA193800EA1440 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2A3251DF18AA1B1200EA1440 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
+		2A3251E018AA1B1200EA1440 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2A3251E118AA1B1200EA1440 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -289,7 +289,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				2A3251AE18AA18BC00EA1440 /* en */,
-				2A3251DD18AA193800EA1440 /* de */,
+				2A3251E018AA1B1200EA1440 /* de */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -298,7 +298,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				2A3251B718AA18BC00EA1440 /* Base */,
-				2A3251DC18AA193800EA1440 /* de */,
+				2A3251DF18AA1B1200EA1440 /* de */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -307,7 +307,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				2A3251CD18AA18BC00EA1440 /* en */,
-				2A3251DE18AA193800EA1440 /* de */,
+				2A3251E118AA1B1200EA1440 /* de */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";

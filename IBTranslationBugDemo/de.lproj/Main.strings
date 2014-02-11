@@ -1,3 +1,12 @@
 
+/* Class = "IBUITextField"; placeholder = "This is another placeholder"; ObjectID = "5oK-9A-aJm"; */
+"5oK-9A-aJm.placeholder" = "Dies ist ein Platzhalter";
+
 /* Class = "IBUITextField"; placeholder = "This is a placeholder"; ObjectID = "GgJ-rl-iUJ"; */
-"GgJ-rl-iUJ.placeholder" = "Dies ist ein Platzhalter";
+"GgJ-rl-iUJ.placeholder" = "Dies ist ein anderer Platzhalter";
+
+/* Class = "IBUILabel"; text = "KITextField"; ObjectID = "dp6-zL-bO5"; */
+"dp6-zL-bO5.text" = "KITextField";
+
+/* Class = "IBUILabel"; text = "UITextField"; ObjectID = "fIi-ut-LH4"; */
+"fIi-ut-LH4.text" = "UITextField";
